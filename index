@@ -424,6 +424,11 @@
         <span class="tag-chip" onclick="toggleTag(this)">Labor</span>
         <span class="tag-chip" onclick="toggleTag(this)">Health</span>
         <span class="tag-chip" onclick="toggleTag(this)">Education</span>
+        <span class="tag-chip" onclick="toggleTag(this)">Privacy</span>
+        <span class="tag-chip" onclick="toggleTag(this)">Futures</span>
+        <span class="tag-chip" onclick="toggleTag(this)">Automation</span>
+        <span class="tag-chip" onclick="toggleTag(this)">Information</span>
+        <span class="tag-chip" onclick="toggleTag(this)">Governance</span>
       </div>
     </div>
 
